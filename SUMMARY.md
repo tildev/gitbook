@@ -11,3 +11,7 @@
 
 * [Part 01](java/part01.md)
 
+## Algorithm
+
+* [Sort](algorithm/sort.md)
+
