@@ -1,2 +1,8 @@
 # Sort
 
+Bubble
+
+Quick
+
+Merge
+
