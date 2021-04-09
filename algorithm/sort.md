@@ -6,3 +6,11 @@ Quick
 
 Merge
 
+Heap
+
+Selection
+
+Insertion
+
+
+
